@@ -6,7 +6,7 @@
 
 I love sharing my knowledge and experience, contributing to Python-related open source projects, and sharing PoCs and issues as code in this repository.
 
-I am author at blog [**Gaabdev**](https://gaabdev.blogspot.com/).
+I am author at blog [**blog do Gaab**](https://gaabdev.blogspot.com/).
 
 - 🎯 &nbsp; **I’m currently focusing on**: Algorithms and Data Structure and Django Framenwork🤩.
 
